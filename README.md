@@ -17,7 +17,7 @@ for XYZ().xyz in obj(
 Will not!
 
 
-###Usage:
+### Usage:
 
 - import `inject_in_loop.Base` and inherit it with your own class.
 - The inheriting class **must** define an attribute/method named `function` that will be called between each iteration.
