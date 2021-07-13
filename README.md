@@ -1,4 +1,4 @@
-##InjectInLoop
+## InjectInLoop
 ##### This module that I created for fun, lets you inject function calls inside the loop itself, between every iteration.
 
 ### Important! currently, it only supports one-line for loop (only the "signature"), i.e.
