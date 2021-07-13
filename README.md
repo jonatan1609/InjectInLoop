@@ -87,7 +87,7 @@ c
 
 
 You can see a couple of examples in `inject_in_loop/main.py`.
-> In order to run that examples you need to run that file directly (not by importing it.).
+> In order to run those examples you need to run that file directly (not by importing it.).
 
 You can also create mixins, which will call several functions with their corresponding arguments, as in the ex example:
 ```python
